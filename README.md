@@ -1,2 +1,1 @@
-# afazzgd
-buat afazzgd
+# blogs
